@@ -1,0 +1,43 @@
+_repo: Sailors-Narratives-of-Voyages-Along-the-New-England-Coast-1524-1624_67623
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Winship, George Parker
+    alias: Winship, G. P. (George Parker)
+    birthdate: 1871
+    deathdate: 1952
+    gutenberg_agent_id: '45914'
+    url: http://www.gutenberg.org/2009/agents/45914
+    wikipedia: https://en.wikipedia.org/wiki/George_Parker_Winship
+description: ''
+gutenberg_issued: '2022-03-13'
+identifiers:
+  gutenberg: '67623'
+  lccn: '05042412'
+language: en
+pgterms:marc904: https://archive.org/details/sailorsnarrative00wins/page/n
+pgterms:marc905: 20200714051921winship
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Steve Mattern, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Houghton, Mifflin & Co,1905.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Early accounts to 1600'
+- !lcsh 'New England -- Description and travel -- Early works to 1800'
+- !lcsh 'America -- Discovery and exploration -- British -- Early works to 1800'
+- !lcc 'F001'
+- GITenberg
+tableOfContents: Narragansett Bay / Giovanni da Verrazano, 1524 -- Maine / David Ingram,
+  1568 -- Buzzard's Bay / Bartholomew Gosnold, 1602 -- Plymouth Harbour / Martin Pring,
+  1603 -- Maine and Massachusetts / Samuel de Champlain, 1605 -- St. George's River
+  / George Waymouth, 1605 -- Kenebeck River / George Popham and Ralegh Gilbert, 1607
+  -- Penobscot and the fishing banks / Henry Hudson, 1609 -- Penobscot Bay / Samuel
+  Argall, 1610 -- Monhegan / John Smith, 1614 -- Maine and Cape Cod / Thomas Dermer,
+  1619 -- York and Portland / Christopher Levett, 1624.
+title: Sailors Narratives of Voyages Along the New England Coast, 1524-1624
+url: http://www.gutenberg.org/ebooks/67623

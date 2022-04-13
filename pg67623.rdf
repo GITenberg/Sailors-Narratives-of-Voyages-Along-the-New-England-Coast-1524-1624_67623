@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <pgterms:ebook rdf:about="ebooks/67623">
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N03f457a7d9a142918f68d5665cd0e177">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">en</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67623.kindle.noimages">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T17:00:49.338804</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne684e8f5f70142a2bfa0cf4edafdcf29">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">891278</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:title>Sailors Narratives of Voyages Along the New England Coast, 1524-1624</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67623.html.images">
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T17:00:46.844776</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">435174</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nce122156c72c4916b92e19b7a1255e67">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc905>20200714051921winship</pgterms:marc905>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67623/67623-h/67623-h.htm">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N99fd8acd09384e6f82d26347a34f26d3">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T15:31:12</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">445300</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67623/67623-h.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T15:31:14</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N431fb4eb583a4b2aa13699818220442c">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2176945</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nc82b85527a9e437f9ac357a878fee881">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:tableOfContents>Narragansett Bay / Giovanni da Verrazano, 1524 -- Maine / David Ingram, 1568 -- Buzzard's Bay / Bartholomew Gosnold, 1602 -- Plymouth Harbour / Martin Pring, 1603 -- Maine and Massachusetts / Samuel de Champlain, 1605 -- St. George's River / George Waymouth, 1605 -- Kenebeck River / George Popham and Ralegh Gilbert, 1607 -- Penobscot and the fishing banks / Henry Hudson, 1609 -- Penobscot Bay / Samuel Argall, 1610 -- Monhegan / John Smith, 1614 -- Maine and Cape Cod / Thomas Dermer, 1619 -- York and Portland / Christopher Levett, 1624.</dcterms:tableOfContents>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">862</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/67623/pg67623.cover.small.jpg">
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2617</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T17:00:49.412768</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N21ee9f6c1f344ca3bf38ed0c5b8623d4">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N21d915618c374ef0866ae9b4f85a387a">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>America -- Early accounts to 1600</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67623.epub.images">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T17:00:50.392803</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N91c5420362e44883b622dbf31833df2b">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1502384</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67623/67623-0.txt">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T15:31:12</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nb38f6d2a11014815839b88fb730403c0">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386713</dcterms:extent>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67623.kindle.images">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3848282</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nf0c677c2868945c881877cddb09aab7b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/x-mobipocket-ebook</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T17:00:52.304800</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67623.txt.utf-8">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">386713</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndd6d03735a2443fd9d1fe50d2798468e">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T17:00:46.073778</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-03-13</dcterms:issued>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67623.rdf">
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N4790221534cf4d46a3c503aecccee4b7">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/rdf+xml</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6404</dcterms:extent>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T17:00:52.444801</dcterms:modified>
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N4ecbac37939a4aba8258e6a7277cceff">
+        <rdf:value>New England -- Description and travel -- Early works to 1800</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <pgterms:marc260>United States :Houghton, Mifflin &amp; Co,1905.</pgterms:marc260>
+    <pgterms:marc906>1905</pgterms:marc906>
+    <pgterms:marc904>https://archive.org/details/sailorsnarrative00wins/page/n</pgterms:marc904>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/67623/67623-0.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T15:31:14</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N12eba547cc124d6d829b11a44905036a">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">142804</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N81a5c8370146409e8316822bf802e979">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc508>Steve Mattern, John Campbell and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)</pgterms:marc508>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="Nf73ff15086a0477c9e0ce5129d3b3eae">
+        <rdf:value>America -- Discovery and exploration -- British -- Early works to 1800</rdf:value>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/ebooks/67623.epub.noimages">
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">264788</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ne2632119610049bc957d179e25df8c49">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/epub+zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T17:00:47.980773</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/cache/epub/67623/pg67623.cover.medium.jpg">
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14841</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/67623"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N2de0d8b9a537417f9f471ba7aa0341e9">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">image/jpeg</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-03-13T17:00:49.479771</dcterms:modified>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <pgterms:marc010>05042412</pgterms:marc010>
+    <marcrel:edt>
+      <pgterms:agent rdf:about="2009/agents/45914">
+        <pgterms:webpage rdf:resource="https://en.wikipedia.org/wiki/George_Parker_Winship"/>
+        <pgterms:name>Winship, George Parker</pgterms:name>
+        <pgterms:alias>Winship, G. P. (George Parker)</pgterms:alias>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1871</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1952</pgterms:deathdate>
+      </pgterms:agent>
+    </marcrel:edt>
+    <pgterms:marc907>US</pgterms:marc907>
+    <dcterms:subject>
+      <rdf:Description rdf:nodeID="N0b0d4847774647869c086207235c496f">
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCC"/>
+        <rdf:value>F001</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+  </cc:Work>
+  <rdf:Description rdf:about="https://en.wikipedia.org/wiki/George_Parker_Winship">
+    <dcterms:description>en.wikipedia</dcterms:description>
+  </rdf:Description>
+</rdf:RDF>
